@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good tydings to the sick and lame: or, The sick-man's library. Teaching both high and low, rich and poor, next under God, how to prescribe to, or procure ease for the pained, strength for the weak, health for the sick, and cure for sores. Being a true and candid relation of the vertue and uses of four excellent medicines, viz. Arcanum vegetabilium, Pilulæ vegetantes, Balsamum vitæ, Unguentum refrigerans, whereunto is added, a few of the many testimonies and cures performed by the same ... published for the good of all who labour under pain and misery. / By Rich. Fletcher Nath. Merry Professors of chymical pysick in London.</title>
+            <author>Fletcher, R. (Richard), fl. 1676-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03336</idno>
+            <idno type="STC">Wing F1358</idno>
+            <idno type="STC">ESTC R177136</idno>
+            <idno type="EEBO-CITATION">53299091</idno>
+            <idno type="OCLC">ocm 53299091</idno>
+            <idno type="VID">179857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03336)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179857)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2806:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good tydings to the sick and lame: or, The sick-man's library. Teaching both high and low, rich and poor, next under God, how to prescribe to, or procure ease for the pained, strength for the weak, health for the sick, and cure for sores. Being a true and candid relation of the vertue and uses of four excellent medicines, viz. Arcanum vegetabilium, Pilulæ vegetantes, Balsamum vitæ, Unguentum refrigerans, whereunto is added, a few of the many testimonies and cures performed by the same ... published for the good of all who labour under pain and misery. / By Rich. Fletcher Nath. Merry Professors of chymical pysick in London.</title>
+                  <author>Fletcher, R. (Richard), fl. 1676-1677.</author>
+                  <author>Merry, Nathaniel.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the authors,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Authors' names in brackets in t.p.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Great Britain --  History --  17th century --  Sources.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179857:1"/>
+            <pb facs="tcp:179857:1" rendition="simple:additions"/>
+            <p>GOOD TYDINGS TO THE Sick and Lame: OR, The Sick-Man's Library.</p>
+            <p>Teaching both High and Low, Rich and Poor, next under God, how to preſcribe to, or procure eaſe for the pained, ſtrength for the weak, health for the Sick, and cure for Sores.</p>
+            <p>BEING A true and candid <hi>RELATION</hi> of the Vertue and uſes of four Excellent Medicines, VIZ.</p>
+            <list>
+               <item>ARCAN<g ref="char:V">Ʋ</g>M VEGETABILI<g ref="char:V">Ʋ</g>M,</item>
+               <item>PIL<g ref="char:V">Ʋ</g>LÆ VEGETANTES,</item>
+               <item>BALSAM<g ref="char:V">Ʋ</g>M VITÆ,</item>
+               <item>
+                  <g ref="char:V">Ʋ</g>NG<g ref="char:V">Ʋ</g>ENT<g ref="char:V">Ʋ</g>M REFRIGERANS,</item>
+            </list>
+            <p>Whereunto is added, A few of the many <hi>TESTIMONIES</hi> and <hi>C<g ref="char:V">Ʋ</g>RES</hi> performed by the ſame, their Names, Diſeaſes, and Places of Abode; being ſufficient to confirm the Truth.</p>
+            <p>
+               <hi>Publiſhed for the good of all Who labour under PAIN and MISERY.</hi>
+            </p>
+            <list>
+               <item>By <hi>RICH. FLETCHER</hi> Profeſſors of Chymical Phyſick in <hi>LONDON.</hi>
+               </item>
+               <item>By <hi>NATH. MERRY</hi> Profeſſors of Chymical Phyſick in <hi>LONDON.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>LONDON,</hi> Printed for the Authors 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179857:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:179857:2" rendition="simple:additions"/>
+            <head>GOOD TYDINGS TO THE Sick &amp; Lame.</head>
+            <opener>
+               <salute>CO<g ref="char:V">Ʋ</g>RTEO<g ref="char:V">Ʋ</g>S READER,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>RCAN<g ref="char:V">Ʋ</g>M VEGETABILI<g ref="char:EOLhyphen"/>
+                  <g ref="char:V">Ʋ</g>M,</hi> Is that <hi>Phyloſophick, Cor<g ref="char:EOLhyphen"/>dial, Purging Vegetable Spirit,</hi> which hath got ſo great Reputati<g ref="char:EOLhyphen"/>on in <hi>LONDON</hi> and many o<g ref="char:EOLhyphen"/>ther parts of this Nation, for the Curing and Rooting out of Diſea<g ref="char:EOLhyphen"/>ſes incident to the Bodies of Men, Women, and Children, <hi>Expelling Noxious Humours, Sweetning the Maſs of Blood, Opening Obſtructions,</hi> by which it hath cured Agues, Feavers, Dropſies, Scurvies, Worms, Madneſs, Phrenſies, Pains of the Head, Common and Inveterate Dulneſs, Sleepineſs, Loſs of Senſe and Motion, Convulſions, Falling Sick<g ref="char:EOLhyphen"/>neſs, Tremblings, and Weakneſs of the Sinews, Stoppage of the Stomack, Impoſthumations, Ul<g ref="char:EOLhyphen"/>cers, Pains or Weakneſs of the Stomach, Spitting of Blood or Matter, Green Sickneſs, Stoppage of
+<pb n="4" facs="tcp:179857:3" rendition="simple:additions"/>
+Womens Terms, Rickets, Gouts, Jaundice. In ſhort, I have found it to anſwer the whole end of of Purging and Cordial Phyſick; being gentle, ſafe, and pleaſant, yet powerful in operation for the Rooting out of Diſeaſes and Aſſiſting Nature to withſtand the ſame, by <hi>Adding Strength to Vital, Animal, and Natural Spirits; Reſiſting Putrefaction, Expelling Poyſon, by which it prevents Infectious Diſeaſes, as Meaſles, Small Pox, Peſtilential Fea<g ref="char:EOLhyphen"/>vers, Plagne, &amp;c.</hi>
+            </p>
+            <p>2 <hi>PIL<g ref="char:V">Ʋ</g>LÆ VEGETANTES,</hi> This Pill hath been largely experienced, and highly com<g ref="char:EOLhyphen"/>mended by many that have taken it, for the ſpeedy Eaſing of Pains; as the <hi>Collick, Stone, Gravel in the Reins or Bladder, Gripings of the Guts, Curing of Fluxes, Eaſing of the Gout, and other Pains of the Limbs: Alſo for the ſpeedy eaſing of Coughs, Curing Conſumptions, Stoppages of the Stomach, Shortneſs of Breath, Staying and Preventing Diſtillations of Rheums, falling from the Head into the Throat or Wind-pipe,</hi> which cauſes a Tickling, ſometime a Wheeſing or Hooping Cough; commonly called <hi>a Diſtillation upon the Lungs:</hi> It is effectual for al<g ref="char:EOLhyphen"/>laying or appeaſing Violent Fits, whether <hi>Madneſs, Frenzies, Agues or Feavers, and is a great Provoker of Sweat and <g ref="char:V">Ʋ</g>rine.</hi>
+            </p>
+            <p>3 <hi>BALSAM<g ref="char:V">Ʋ</g>M VITÆ,</hi> This Balſome cures Green Wounds, Ulcers, Fiſtula's, Cankers, Kings-Evil, Gangrens, to a wonder it diſſolves Hard Tumors, Excreſcences, Coagulated or Spongeous Fleſh into Matter, and cures the ſame. It eaſeth old and cold Pains, Bruiſes, or Strains: Alſo <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſeth and
+<pb n="5" facs="tcp:179857:3" rendition="simple:additions"/>
+ſtrengtheneth pained, nummed, lamed, and weak Limbs; and is rare in Cold Gouts.</p>
+            <p>4 <hi>
+                  <g ref="char:V">Ʋ</g>NG<g ref="char:V">Ʋ</g>ENT<g ref="char:V">Ʋ</g>M REFRIGERANS,</hi> This Oyntment cures Burns, Scalds, Scabs, Sores, Tet<g ref="char:EOLhyphen"/>ters, Itch, Ring-worms, Pimples, Puſhes, and eaſeth External Pains, and Aſſwageth Swellings, Proceed<g ref="char:EOLhyphen"/>ing of Heat, Cures Piles and Hemorrhoids.</p>
+            <p>
+               <hi>This is a ſhort and candid Relation of thoſe four fore-going Medicines of which Twenty years experience in practice, hath afforded me many large Tryals in this City and many other parts of the World, for ma<g ref="char:EOLhyphen"/>ny have been and daily are</hi> Remarkable Cures <hi>perfor<g ref="char:EOLhyphen"/>med by the ſame. And to the end that all others who have the like occaſion may receive the ſame benefit as to Eaſe and Cure,</hi> Carefully heed theſe following Di<g ref="char:EOLhyphen"/>rections, which is plain to every ordinary capacity; teaching the true uſe of the ſame.</p>
+            <div type="directions_for_use">
+               <head>DIRECTIONS For the Uſes of our Spirit, Pills, Balſome, and Oyntment.</head>
+               <p>FOr Stoppage of the Stomach, Difficulty of Breathing, Inflammations and Ulcers in the Stomach, Spitting of Blood or Matter, Con<g ref="char:EOLhyphen"/>ſumptions, Coughs, Diſtillations of Rheums, Weak<g ref="char:EOLhyphen"/>neſs of the Stomach or Want of Appetite, Collick or Stone in the Reins or Bladder, Stoppage of Urine
+<pb n="6" facs="tcp:179857:4" rendition="simple:additions"/>
+or Ulcers in the Reins or Bladder, Fluxes of the Bel<g ref="char:EOLhyphen"/>ly or Griping of the Guts; <hi>take theſe following Directions,</hi>
+               </p>
+               <p>Let the Patient firſt purge with the Spirit, the Doſſe being two, three, or four large Spoonfuls, ac<g ref="char:EOLhyphen"/>cording to the Age and Strength of the Patient; that is, for a Child or very Weak Body, two Spoonfuls may be ſufficient; but if for a Stronger Body, three or four Spoonfuls; but for a very Strong Body five or ſix Spoonfuls; for there is no danger in taking a large Doſſe, it being a Streng<g ref="char:EOLhyphen"/>thener as well as a Cleanſer; nor in taking too lit<g ref="char:EOLhyphen"/>tle, if it work not by Stool; being Cordial as well as Purging. Let the Doſſe be taken in the Morn<g ref="char:EOLhyphen"/>ing faſting: Them that are able, may walk abroad and eat their ordinary Diet as formerly; its opera<g ref="char:EOLhyphen"/>tion being ſafe and eaſie: The ſame Night, going to Bed, take one, two, or three of our Pills, accord<g ref="char:EOLhyphen"/>ing to the Age and Strength, as before directed, in the uſe of our Spirit. Thus continue taking both Spirit and Pills every other day; alwayes obſerving to take the Spirit in the Morning, and the Pills the ſame Night; and by this means you may expect to find ſpeedy eaſe, and the Cure to haſten to a won<g ref="char:EOLhyphen"/>der. <hi>Probatum eſt</hi> by many.</p>
+               <p>Now thoſe which are troubled with any of the fore-named Diſeaſes violently, ſuch may take the Pills for three or four Nights, one after another, af<g ref="char:EOLhyphen"/>ter their Bodies have been purged with the Spirit; and then leave off taking the Pills for one Night, the next Morning take a large Doſſe of the Spirit, and the ſame Night begin again to take the Pills, as before; ſo continue taking the Pills more or leſs
+<pb n="7" facs="tcp:179857:4" rendition="simple:additions"/>
+Nights together, as you ſee cauſe: Alwayes obſer<g ref="char:EOLhyphen"/>ving, That when you would take the Spirit, the Night before leave off the Pills; for in what Diſea<g ref="char:EOLhyphen"/>ſes ſoever the Pills are proper to, they muſt be ta<g ref="char:EOLhyphen"/>ken at Night; alwayes obſerving to take the Spirit in the Morning: and ſo after little acquaintance with their operation, you will be able to direct your ſelves and others.</p>
+               <p>For Madneſs, Inflammations of the Brain, Swim<g ref="char:EOLhyphen"/>mings in the Head, Frenſies and Pains in the Head,</p>
+               <p>Purge every other Morning with a large Doſſe of our Spirit, and the ſame Night take two or three of our Pills, and every Night annoint the Temples and Fore-head with our Oyntment.</p>
+               <p>For <hi>Convulſions, Falling-Sickneſs, Tremblings, Pal<g ref="char:EOLhyphen"/>ſies, and Weakneſs of the Sinews,</hi> Let the Sick take a little Doſſe of our Spirit every Morning faſting, and every Night annoint the Nape of the Neck and Joynts with our Balſome warm.</p>
+               <p>For <hi>the Seurvy,</hi> that Epidemical Diſeaſe. In the Cure of this Diſeaſe, our Spirit muſt be taken in a large Doſſe for two or three dayes, then leave off taking the Spirit for two dayes; then take one Doſſe of our Pills, the Night following; the laſt day of Purging, endeavour to ſweat upon them that Night, and riſe not too early the next Morning. When theſe two intermitting dayes are paſt, take the Spirit as before, and the Pills the following Night, as be<g ref="char:EOLhyphen"/>fore. Alſo this Method muſt be obſerved all along in the Cure, and you may in a ſhort time find the Subtile Enemy rooted out. Now if there be any breakings out or pains in the Limbs in this Diſeaſe, as often it happens, annoint the parts grieved or pained with our Balſome warm every Night and Morning.</p>
+               <p>
+                  <pb n="8" facs="tcp:179857:5"/>For the <hi>Gout,</hi> Take a large Doſſe of our Spirit, every other Morning, and the ſame Night take two or three of our Pills, and every Night and Morning annoint the parts pained with our Balſome and Oynt<g ref="char:EOLhyphen"/>ment mixed together warmed.</p>
+               <p>For <hi>the Green Sickneſs, Dropſies and Worms,</hi> Take a ſmall Doſſe of our Spirit every Morning faſting.</p>
+               <p>For <hi>Agues, Feavers, Iaundice Black and Yellow,</hi> every other Morning take a large Doſſe of our Spirit; the ſame Night take one or two of our Pills: ſo con<g ref="char:EOLhyphen"/>tinue as long as you ſee cauſe.</p>
+               <p>For <hi>the Rickets in Children,</hi> give them every other Morning a large Spoonful of our Spirit, and every Night annoint their Stomachs and Joynts with the Balſome warm.</p>
+               <p>For <hi>the French Diſeaſe Alamode,</hi> take our Spirit every other day in a large Doſſe, and the ſame Night take a large Doſe of our <hi>Pills,</hi> two, three or four, and ſweat upon them. If there be any <hi>Swellings, Scabs, breakings out, <g ref="char:V">Ʋ</g>lcers,</hi> or violent pains in the <hi>Limbs,</hi> anoynt the parts with our <hi>Balſom</hi> every night.</p>
+               <p>For the Runing of the <hi>Reins,</hi> take our <hi>Spirit</hi> and <hi>Pills,</hi> as is beſore directed in the <hi>French Pox.</hi>
+               </p>
+               <p>For the Curing of <hi>Sores;</hi> as <hi>Cancers</hi> and <hi>Cankers, Gangreens</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>lcers, Fiſtula's, Kings-evil,</hi> or any other old <hi>Sores:</hi> Dreſs them twice a day with our <hi>Balſom,</hi> as you uſe to do other <hi>Wounds</hi> or <hi>Sores</hi> with other <hi>Oyntments.</hi>
+               </p>
+               <p>If there be any deep <hi>Wounds,</hi> as in <hi>Fiſtula's,</hi> make Roles or Tents with Lint or Flax, dip them in the <hi>Balſom</hi> melted, and tent the <hi>Wound</hi> every Dreſſing, and, lay a Playſter upon the <hi>Wound</hi> of the ſaid <hi>Bal<g ref="char:EOLhyphen"/>ſom:</hi> Dreſs all ſuch <hi>Sores</hi> twice a day: 'twill be
+<pb n="9" facs="tcp:179857:5" rendition="simple:additions"/>
+convenient, for ſuch <hi>Patient,</hi> to purge once in three days with a Doſe of our <hi>Spirit,</hi> and the ſame night to take a Doſe of our <hi>Pills,</hi> for they do wonderful<g ref="char:EOLhyphen"/>ly diſpoſe <hi>Wounds</hi> to healing. In the cure of other <hi>Sores,</hi> as <hi>Wounds, Stabs, Bruſes,</hi> apply a Plaſter of the ſame <hi>Balſom,</hi> and dreſs them once a day.</p>
+               <p>In all old or cold <hi>Swellings, Strains, Numb, Lame</hi> or <hi>Weak Limbs,</hi> anoynt the apart affected night and morning with our <hi>Balſom</hi> warm; and every third or fourth morning take a large Doſe of our <hi>Spirit.</hi>
+               </p>
+               <p>For <hi>Burns, Scalds, Scabs, Itch, Tetters, Ring-worms, Shingles, Inflamations, Hot-ſwellings, Piles</hi> or <hi>Hem<g ref="char:EOLhyphen"/>morrhoid,</hi> anoynt the parts affected every night and morning with our <hi>Oyntment:</hi> take a Doſe of our <hi>Spirit</hi> every ſecond or third morning, and at night take a doſe of our <hi>Pills.</hi>
+               </p>
+               <p>Laſtly, thoſe that are troubled with any other <hi>Diſeaſes</hi> than thoſe aforementioned, either Internal or Externial, within the reach of <hi>Medicine,</hi> of what nature or kind ſoever, may ſafely make uſe of theſe our <hi>Medicines;</hi> for they have been found ſo power<g ref="char:EOLhyphen"/>ful, ſafe and effectual, in reſiſting <hi>Putrefaction,</hi> eaſing <hi>Pains,</hi> ſtrengthening <hi>Nature,</hi> that being timely taken, many dangerons <hi>Diſeaſes</hi> may in a ſhort time be cured by uſing theſe <hi>Medicines,</hi> as need ſhall require, the foreſaid Directions is ſufficient to inform you: And let me adviſe all who love their Healths, to take a doſe of our <hi>Spirti</hi> often, to correct the evil effects the precedent, unſeaſonable weather, and unſound Dyet; and 1 or 2 of our <hi>Pills</hi> the ſame night. Theſe <hi>Medicines</hi> being-friendly to <hi>Nature,</hi> preventing <hi>Diſ<g ref="char:EOLhyphen"/>eaſes,</hi> rooting out the <hi>Scurvie,</hi> which ſecretly lodges in the maſs of Bloud, in moſt ſeeming healthy Perſons, from which Root moſt other <hi>Diſeaſes</hi> ariſe, being but Branches
+<pb n="10" facs="tcp:179857:6" rendition="simple:additions"/>
+of the ſame, ſtired up by every little accident Hetrogenious to <hi>Nature.</hi>
+               </p>
+               <p>This <hi>Medicine</hi> being rightly adapted for the de<g ref="char:EOLhyphen"/>ſtroying of <hi>Diſeaſes</hi> in Semene, by altering Ferments, doth prevent the <hi>Plague, Small Pox, Mezles,</hi> and ma<g ref="char:EOLhyphen"/>ny <hi>Diſeaſes,</hi> and is of that renovating property, that it may well be called, as indeed it is, a rare preſerver of health and vigor, conſequently prolonger of life alſo.</p>
+               <p>For the confirmation of which, ſee the Hiſtory of Life and Death by <hi>Francis</hi> Lord <hi>Bacon,</hi> pag. 25. who complains of the want of ſuch <hi>Medicines</hi> in the Vul<g ref="char:EOLhyphen"/>gar Art of <hi>Phyſick</hi> in his time.</p>
+               <p>
+                  <hi>The Art of Phyſick,</hi> ſaith he, <hi>which we now have, looks no farther commonly than the conſervation of health and cure of Diſeaſes: As for thoſe things which tend properly to long life, there is but ſlight mention, and by the way only; notwithſtanding we will propound thoſe Medicines which are notable in this kind, I mean, thoſe which are Cordials: For it is conſonant to Rea<g ref="char:EOLhyphen"/>ſon, that thoſe things which being taken in Cures, do defend and fortifie the Heart, or more truly the Spirit againſt Poyſons and Diſeaſes, being tranferred with judgement, and choice into Diet, ſhould have a good ef<g ref="char:EOLhyphen"/>fect, in ſort towards the prolonging of life:</hi> And pag. 51. <hi>We do conſidenly affirm (neither let any man reckon us amongſt thoſe Hereticks, which were called</hi> Cathari <hi>that often purges and made even Familier to the body, are more a vailable to long life, than Exerciſes and Sweats.</hi> Thus far we have digreſs'd.</p>
+               <p>For Sea-men that go long voyages, theſe <hi>Medi<g ref="char:EOLhyphen"/>cines</hi> are of great uſe and vertue, and may be a means to ſave life, when the Doctors Cheſt may fail; for in <hi>Calenture, Fevers</hi> and <hi>Fluxes,</hi> many Sea<g ref="char:EOLhyphen"/>men are loſt for want of proper <hi>Medicines,</hi> power<g ref="char:EOLhyphen"/>fully
+<pb n="11" facs="tcp:179857:6" rendition="simple:additions"/>
+to withſtand the ſame. Now for the Cure of theſe <hi>Diſeaſes,</hi> let the Sick take a large doſe of our <hi>Spirit,</hi> and when the <hi>Spirit</hi> hath done working, then take two or three of our <hi>Pills,</hi> and ſweat upon them; and by this Experiment alone, you will find that a Maſter of a Ship, or any of his Company, may by theſe four <hi>Medicines</hi> perform more noble Cures, though ignorant in <hi>Phyſick</hi> and <hi>Chyrurgery,</hi> than the knowing <hi>Arteſt</hi> with a Cheſt full of <hi>Gallenical Medicines.</hi> And he or ſhe that is furniſhed with theſe <hi>Medicines,</hi> and uſeth them according to our directi<g ref="char:EOLhyphen"/>ons aforeſaid, may cure themſelves, with great eaſe, ſafety, ſecreſie and cheapneſs, and that there is good<g ref="char:EOLhyphen"/>neſs and worth in thoſe fore-named <hi>Medicines,</hi> and that many have been cured by them, who have been paſt all probable hope of recovery: In confirmati<g ref="char:EOLhyphen"/>on of which take, theſe few of many Teſtimonies, the whole being too tedious to relate.</p>
+            </div>
+            <div type="testimonies">
+               <head>TESTIMONIES.</head>
+               <p>In the twelfth Month 1672, came to my Houſe one M. <hi>Broomhale,</hi> which a little before had ſome of my <hi>Spirit, Pills</hi> and <hi>Balſom,</hi> for the uſe of one <hi>Manwaring,</hi> a woman of ſeventy years of Age, and ſhe had been lame many years, her Legs ulcerated, ſwelled, and afflicted with general pains, and ſhort<g ref="char:EOLhyphen"/>neſs of Breath, inſomuch that recovery was not ex<g ref="char:EOLhyphen"/>pected; yet for the expence of twenty ſhillings was cured, to the wonder of her acquaintance: This is well known to the great ones of this Nation: This is part of the Relation brought me by her Friend; ſhe lodged at the time of her curing, at one M. <hi>Clarks,</hi> Midwife in the old <hi>Ambury</hi> at <hi>Westminſter.</hi>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:179857:7" rendition="simple:additions"/>
+                  <hi>Henry Churcher</hi> in <hi>Garden-alley</hi> in <hi>Biſhopſgate<g ref="char:EOLhyphen"/>ſtreet,</hi> troubled with ſpetting of Blood and Matter, with an Impoſtume in his Stomach, cured in a few days with theſe <hi>Medicines.</hi>
+               </p>
+               <p>
+                  <hi>Lidia Witcomb</hi> of <hi>Gloſter,</hi> cured of the Worms with two doſes of the <hi>Spirit.</hi>
+               </p>
+               <p>The Widdow <hi>Willians</hi> in new <hi>Kings-ſtreet, Wapping,</hi> cured of a violent head-ach of twelve years, with leſs than two Boxes of <hi>Pills.</hi>
+               </p>
+               <p>
+                  <hi>Henry Nock,</hi> Sadler, in <hi>Aſhford</hi> in <hi>Kent,</hi> cured of the Stone in a few days.</p>
+               <p>
+                  <hi>Anne Marſh,</hi> the Wife of <hi>John Marſh</hi> of <hi>Hendun,</hi> five Miles from <hi>London,</hi> after ſhe had ſpent many pounds, and finding no eaſe, began to diſpair of help; being troubled with violent Scorbutick Pains, ſhort<g ref="char:EOLhyphen"/>neſs of Breath, want of Appetite, was in a ſhort time cured with my <hi>Spirit</hi> and <hi>Pills,</hi> for leſs than twenty ſhillings charge.</p>
+               <p>
+                  <hi>Thomas Bromfield</hi> Shoo-maker near the <hi>Turn-ſtile, Holbron,</hi> violently afflicted with the Stone, and ſtopage of Urine, having not made any water but by drops for five weeks, and that with great pain: was perfectly cured in ſix hours with one doſe of <hi>Spirit</hi> and <hi>Pills.</hi>
+               </p>
+               <p>
+                  <hi>Marget Edmonds</hi> in <hi>Jerman-street,</hi> near <hi>James</hi> Market, cured of a violent Canker in her throat, oc<g ref="char:EOLhyphen"/>caſioned by the Scurvy.</p>
+               <p>
+                  <hi>Mary Dyet</hi> of <hi>Barnaby-ſtreet,</hi> troubled with vi<g ref="char:EOLhyphen"/>olent Fits of the Mother, and pains of the Spleen, cured for little charge.</p>
+               <p>A Child of <hi>Mat. Broads</hi> in <hi>Thomas Southwarke,</hi> was cured of a bloudy Urine in two days time, to the amazement of its Parents.</p>
+               <p>A <hi>Corniſh Navigater</hi> given off as paſt cure, not being able to move hand or foot, was brought to
+<pb n="13" facs="tcp:179857:7" rendition="simple:additions"/>
+                  <hi>London,</hi> and in a few days was able to come to my Chamber: He lodged in <hi>New-gravel-Lane, Wapping,</hi> near <hi>Henry Wyards,</hi> who was an eye witneſs of him, and many others that was wonderfully recover'd.</p>
+               <p>
+                  <hi>Dorathy,</hi> the Wife of <hi>John Tupper,</hi> Bricklayler, in <hi>Eagle-ſtreet</hi> near <hi>Pickakilly,</hi> cured of a violent ſtop<g ref="char:EOLhyphen"/>page in her Stomach, and Head-ach.</p>
+               <p>
+                  <hi>Bernard Ienkes</hi> near the <hi>Pelican</hi> in <hi>Eaſt-Smithfield,</hi> cured of a violent pain in his Side and Back, ſhort<g ref="char:EOLhyphen"/>neſs of Breath: his Wife of a Cancerous humour in her Breſt.</p>
+               <p>
+                  <hi>Sarah Barrow</hi> of <hi>Dirty walton</hi> near <hi>Tuexbury,</hi> cured of a violent Cancerous Tumor, which cauſed the loſs of the uſe of one Arm.</p>
+               <p>
+                  <hi>Adam Bennet</hi> of <hi>Hyneham,</hi> twelve Miles from <hi>Glo<g ref="char:EOLhyphen"/>ſter,</hi> troubled with a tedious quartin Ague, Con<g ref="char:EOLhyphen"/>ſumption, Cough, ſhortneſs of Breath; cured with a quarter glaſs of our <hi>Spirit,</hi> and half a Box of <hi>Pills.</hi>
+               </p>
+               <p>
+                  <hi>John Relph,</hi> Ship-wright at the <hi>Fale on</hi> near the <hi>Banks-ſide, Southwark,</hi> cured of a violent Con<g ref="char:EOLhyphen"/>ſumptive Cough, after ſo weak that he could not ſit up right in his Bed, and given over as paſt help: Alſo a Child of his cured of a violent ſtoppage in his Sto<g ref="char:EOLhyphen"/>mach and Hecktick Fever.</p>
+               <p>One <hi>Every-Tharpe,</hi> Water-man on the <hi>Bank-ſide,</hi> cured of a tedious quartin Ague, when near dearhs<g ref="char:EOLhyphen"/>door: the ſame man ſome years after cured of a vio<g ref="char:EOLhyphen"/>lent pain in his Side; alſo others of his Family cured.</p>
+               <p>One <hi>Abbet Fiſherman</hi> on the ſame <hi>Bank-ſide,</hi> cured of a violent Fever, ſtopage of the Stomack, and pains in his Head and Limbs, when paſt all proble hope of recovery, with many others of the Neigh<g ref="char:EOLhyphen"/>bour-hood about <hi>Maſſon ſtares,</hi> and other parts of
+<pb n="14" facs="tcp:179857:8" rendition="simple:additions"/>
+the <hi>Bank-ſide,</hi> cured to a wonder the names and Diſeaſes, of which are too tedious to relate.</p>
+               <p>
+                  <hi>Mary Carrol,</hi> now the Widdow <hi>Bryon</hi> of <hi>Chate<g ref="char:EOLhyphen"/>ham</hi> in <hi>Kent,</hi> cured of an old cancerated Breſt ſo dangerous, that it was feared it muſt have been cut off, is now reduced to its perfect ſhape as formerly, and hath remained well this ſix years.</p>
+               <p>
+                  <hi>Anne Cuny</hi> of <hi>Poyk,</hi> cured of Madneſs, after ſhe had been many Months in Chains, and remained well ſeven years.</p>
+               <p>A Servant of <hi>Thomas Harris,</hi> at the two Tobacco Roles in <hi>Eaſt-ſmithfield,</hi> cured of Madneſs in a ſhort time.</p>
+               <p>
+                  <hi>Thomas Sadler,</hi> a lodger at one <hi>Godwrads</hi> in <hi>Kings<g ref="char:EOLhyphen"/>ſtreet, Giles</hi> in the <hi>Fields,</hi> cured of Madneſs in a ſhort time. Another lodger of his cured of violent Gripings of the Guts, and ſhortneſs of Breath. For farther confirmation of this, inquire of the ſaid <hi>God<g ref="char:EOLhyphen"/>wards</hi> at the <hi>Bear</hi> Ordinary in <hi>Burchin-Lane.</hi>
+               </p>
+               <p>A Siſter of <hi>Sarah Knights</hi> in <hi>Cow-lane,</hi> cured of a Phrenzie.</p>
+               <p>Captain <hi>Watkins</hi> of <hi>Mile-end,</hi> cured of the Gout in his hands and feet.</p>
+               <p>The Lady <hi>Griffin</hi> near <hi>Leitchfield,</hi> by taking of our Spirit and Pills voided Sand, Gravel, and ſmall Stones without pain in a great quantity.</p>
+               <p>
+                  <hi>John Woolger</hi> of <hi>Bredhemſtone</hi> in <hi>Suſſex,</hi> Fiſherman, was cured of a Woolf in his head, by waring a Cap made of our <hi>Balſom</hi> mixt with Cotten, Wool, and quilted between to linning Cloaths, and by taking inwardly our Spirits and Pills, notwithſtanding his head had been twice opened by advice of Eminent Phyſicians and Chyrurgions, by reaſon of the length and tediouſneſs of his pain, being of ſome years con<g ref="char:EOLhyphen"/>tinuance,
+<pb n="15" facs="tcp:179857:8" rendition="simple:additions"/>
+and paſt all probable hope of recovery, yet well in a ſhort time, and hath remained well this twelve years.</p>
+               <p>The Wife of <hi>Richard Collings</hi> of <hi>Clare-ſtreet, New<g ref="char:EOLhyphen"/>market,</hi> cured of a violent Scorbutick Leproſie, no part being free from pains and botches.</p>
+               <p>
+                  <hi>Willam Iordan</hi> at the Maremaid in <hi>Carter-lane,</hi> cured of a violent Fever, ſhortneſs of Breath, and pains in his Limbs.</p>
+               <p>Two blind Children cured to admiration, one at <hi>Farneham</hi> in <hi>Surry,</hi> the other at <hi>Tamworth</hi> in <hi>Stafford<g ref="char:EOLhyphen"/>ſhire.</hi>
+               </p>
+               <p>
+                  <hi>Alexander Pope,</hi> Water-man of <hi>Shad. Thames,</hi> cured of a violent quartin Ague and Dropſie in a weaks time, when he had try'd many Phyſicians of common note.</p>
+               <p>One <hi>Stringer,</hi> Journey-man at the <hi>Blew-laſt</hi> in <hi>Ruſ<g ref="char:EOLhyphen"/>ſel-ſtreet,</hi> cured of violent pains in his Loyns.</p>
+               <p>The Wife of <hi>John Collet</hi> of <hi>Eaſt-ſmithfield,</hi> violently affected with the Sone, cured.</p>
+               <p>
+                  <hi>John Brown,</hi> Butcher in <hi>Aſhſord</hi> in <hi>Kent,</hi> who had a violent hard Tumor on his Arm-pit, the pain of which cauſed the loſs of the uſe of his Arm, cured in thirty days. Another of the like Diſ<g ref="char:EOLhyphen"/>eaſe, cured near <hi>Dearham</hi> in <hi>Norfolk.</hi>
+               </p>
+               <p>A Daughter of <hi>John Edmonds</hi> near <hi>Bramſgrove,</hi> who was ſo violenly afflicted with Convultion Fits, that ſometimes ſhe was drawn neck and heels together backward, and at other times up on a heap ſide ways, was cured in a ſhort time. Another of the like Diſeaſe, cured in <hi>Amberſly</hi> in <hi>Worſterſhire.</hi>
+               </p>
+               <p>
+                  <hi>Thomas Snell</hi> of <hi>Gloſter,</hi> cured of a hard ſwelling on his face with a quarter glaſs of Spirit, and a pot of Oyntment.</p>
+               <p>Cures performed by <hi>John Fenny</hi> of <hi>Wimſlow</hi> in <hi>Cheſtire</hi> with my Spirit and Pills, one of a violent Canker in her Throat, cured when left off as paſt cure.</p>
+               <p>
+                  <hi>Mary Baly</hi> of the ſame place, cured of extreme Stitches and Vomitings.</p>
+               <p>
+                  <pb n="16" facs="tcp:179857:9" rendition="simple:additions"/>
+                  <hi>Eliner Potter,</hi> cured of pains in her head, and ſpotted, pim<g ref="char:EOLhyphen"/>pled face.</p>
+               <p>Another of violent pains in her Jaws and Teeth.</p>
+               <p>Another of a Quinſie, his tongue ſo ſwelled, that his Mouth was not able to contain it, and was ſpeechleſs, cured in 24 hours.</p>
+               <p>Another of the Jaundice, and violent Head-ach: A Child of his cured of the Chin Cough.</p>
+               <p>Theſe Cures, with many more, he gave me an account of at large in his Letter.</p>
+               <p>A Maid near <hi>Coventry,</hi> cured of a Gangerine on her face with my Balſom.</p>
+               <p>A Kinſwoman of <hi>Robert Rotheram</hi> of <hi>Beſtford</hi> near <hi>Notingham,</hi> had above forty Stones brought away from her without pain in a little time. Many more might be added enough to fill a large Volume, for I could inſtance a cloud of witneſſes more, but let this ſuffice for brevities ſake: I aſſure thee my aim is the publick good, and that the poor might have cure is my end; If any do miſconſter me to their own hurt; I cannot help that, but for my part, I can heartily and truly ſay in the preſence of him that is the ſearcher of all hearts, I durſt not have publiſhed theſe things to the world, had I not found that God the giver of every good and perfect Gift, had bleſſed the means afforded thereby, and am fully ſatisfied, if thou canſt but make uſe of it with a thankful heart, you will find the truth of what I ſay, for which glory to God only.</p>
+            </div>
+            <div type="advert">
+               <list>
+                  <item>
+                     <hi>Arcanum vigetabilum,</hi> that Cordial purging Spirit is 4 <hi>s.</hi> the Glaſs, 2 <hi>s.</hi> the half Claſs.</item>
+                  <item>
+                     <hi>Pilulae vegetantes</hi> is 4 <hi>s.</hi> the Box, 2 <hi>s.</hi> the half Box.</item>
+                  <item>
+                     <hi>Balfauum Vitae</hi> is one 1 <hi>s.</hi> the Box.</item>
+                  <item>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nguentum Refrigerans</hi> is 1 <hi>s.</hi> the Box.</item>
+               </list>
+               <p>WHereas this Cordial purging Spirit, Pills, Balſom and Oyntment was formerly ſold in ſome other places in and about <hi>London.</hi> Theſe are to give notice, that the ſaid Spirit, Pills, Balſom and Oyntment are not to be had or ſold in any other place in <hi>London,</hi> but at the houſe of <hi>William Rayman,</hi> at the up<g ref="char:EOLhyphen"/>per end of <hi>Bred-ſtreet</hi> near <hi>Cheapſide,</hi> between the <hi>Angel</hi> and <hi>Bell.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:179857:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
